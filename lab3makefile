@@ -1,3 +1,0 @@
-all:
-        wget -v https://people.sc.fsu.edu/~jburkardt/data/csv/crash_catalonia.csv
-        awk -f lab3awkfile.awk crash_catalonia.csv
