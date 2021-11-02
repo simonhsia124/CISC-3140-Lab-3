@@ -18,4 +18,11 @@ Report created using an awk script to generate the report and then using a makef
   -Copy and paste the code into the files you have just created.
   
   -Run the command make makefile
-  
+  OR 
+  Clone the repository using following Commands:
+  git clone https://github.com/simonhsia124/CISC-3140-Lab-3
+  change to directory lab3awkfile.awk
+  and run the commands:
+  make
+  or 
+  make makefile
